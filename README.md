@@ -19,40 +19,40 @@
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
-<p>
+<h1>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
-</p>
+</h1>
 
 ### ⚙️ Backend
-<p>
+<h1>
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
-</p>
+</h1>
 
 ### 🗄️ Database
-<p>
+<h1>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+</h1>
 
 ### 🔧 Tools
-<p>
+<h1>
   <img src="https://skillicons.dev/icons?i=git,docker,figma,linux,jira" />
-</p>
+</h1>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<h1 align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mlaalam&show_icons=true&theme=tokyonight" />
-</p>
+</h1>
 
-<p align="center">
+<h1 align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mlaalam&theme=tokyonight" />
-</p>
+</h1>
 
-<p align="center">
+<h1 align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlaalam&layout=compact&theme=tokyonight" />
-</p>
+</h1>
 
 ---
 
