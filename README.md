@@ -20,22 +20,22 @@
 
 ### 🎨 Frontend
 <h1>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+ <img height="60" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </h1>
 
 ### ⚙️ Backend
 <h1>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
+  <img height="60" src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
 </h1>
 
 ### 🗄️ Database
 <h1>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img height="60" src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </h1>
 
 ### 🔧 Tools
 <h1>
-  <img src="https://skillicons.dev/icons?i=git,docker,figma,linux,jira" />
+  <img height="60" src="https://skillicons.dev/icons?i=git,docker,figma,linux,jira" />
 </h1>
 
 ---
