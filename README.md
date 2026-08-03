@@ -42,17 +42,22 @@
 
 ## 📊 GitHub Stats
 
-<h1 align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mlaalam&show_icons=true&theme=tokyonight" />
-</h1>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mlaalam&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlaalam&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
 
-<h1 align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mlaalam&theme=tokyonight" />
-</h1>
-
-<h1 align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlaalam&layout=compact&theme=tokyonight" />
-</h1>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=mlaalam&theme=tokyonight&hide_border=true"
+  />
+</p>
 
 ---
 
