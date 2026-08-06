@@ -42,7 +42,7 @@
 
 ## 📊 GitHub Stats
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mlaalam&show_icons=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com?user=mlaalam&theme=tokyonight" />
 </p>
